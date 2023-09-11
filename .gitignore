@@ -1,0 +1,13 @@
+*.cache
+*.zip
+*.suo
+*.exe
+*.txt
+*.force
+*.pdb
+.vs/
+bin
+obj
+packages
+*packages.config
+*/.DS_Store
