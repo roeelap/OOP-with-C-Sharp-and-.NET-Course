@@ -9,5 +9,4 @@
 bin
 obj
 packages
-*packages.config
-*/.DS_Store
+*.config
